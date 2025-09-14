@@ -25,7 +25,7 @@ export default function About() {
 				<div className={styles.text}>
 					<h3>A Passionate Software Developer/Designer</h3>
 					<p>
-						Hi! I'm Ayush Narania, a software developer and designer with a passion for AI and Machine Learning. I love creating beautiful and functional applications, and I'm always looking for new challenges to grow my skills.
+						Hi! I&apos;m Ayush Narania, a software developer and designer with a passion for AI and Machine Learning. I love creating beautiful and functional applications, and I&apos;m always looking for new challenges to grow my skills.
 					</p>
 				</div>
 				<div className={styles.text}>
